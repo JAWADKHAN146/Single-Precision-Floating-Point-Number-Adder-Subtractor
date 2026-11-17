@@ -122,6 +122,4 @@ Written in SystemVerilog (uses `logic` and `always_comb`). It should work with V
 |------|-------------|
 | `FP_Adder_Subtractor.sv` | The adder/subtractor module |
 
-## License
 
-Add your license of choice here (for example MIT).
